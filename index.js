@@ -8,5 +8,6 @@ for (let i = 0; i < arr.length; i++) {
 
 function tailsNeverFails(){
   
+  Math.random()
   
 }
